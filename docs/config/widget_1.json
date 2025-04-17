@@ -1,0 +1,7 @@
+{
+    "type": "testimonial",
+    "elementId": "widget-1",
+    "testimonials": [
+      { "quote": "Love it!", "author": "Alice" }
+    ]
+  }
